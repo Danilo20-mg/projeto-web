@@ -1,6 +1,6 @@
-# Loja de Calçados - MyCloset
+# Loja de Moda - MyCloset
 
-Um projeto de e-commerce para uma loja de calçados desenvolvido como parte da disciplina **Tecnologias para Front-end** do curso de Ciência da Computação.
+Um projeto de e-commerce para uma loja de moda desenvolvido como parte da disciplina **Tecnologias para Front-end** do curso de Ciência da Computação.
 
 ## Equipe de Desenvolvimento
 
