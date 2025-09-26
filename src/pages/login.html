@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login - Loja de Calçados</title>
+</head>
+<body>
+  <header>
+    <!-- Logo com link para voltar ao site -->
+    <a href="index.html">
+      <img src="../img/logo.png" alt="Logo da Loja" width="120" height="80">
+    </a>
+    <hr>
+  </header>
+
+  <main>
+    <h1>Acesse sua conta</h1>
+    
+    <section>
+      <form action="processar-login.php" method="post">
+        <fieldset>
+          <legend>Dados de acesso</legend>
+          
+          <p>
+            <label for="email">E-mail:</label><br>
+            <input type="email" id="email" name="email" required size="40" placeholder="seu@email.com">
+          </p>
+          
+          <p>
+            <label for="senha">Senha:</label><br>
+            <input type="password" id="senha" name="senha" required size="40" placeholder="Digite sua senha">
+          </p>
+          
+          <p>
+            <input type="checkbox" id="lembrar" name="lembrar" value="sim">
+            <label for="lembrar">Lembrar de mim</label>
+          </p>
+          
+          <p>
+            <input type="submit" value="Entrar">
+          </p>
+        </fieldset>
+      </form>
+      
+      <p>
+        <a href="esqueci-senha.html">Esqueci minha senha</a>
+      </p>
+    </section>
+    
+    <hr>
+    
+    <section>
+      <h2>Não tem uma conta?</h2>
+      <p>Cadastre-se gratuitamente e aproveite ofertas exclusivas!</p>
+      
+      <p>
+        <a href="cadastro.html"><strong>Criar conta gratuita</strong></a>
+      </p>
+    </section>
+    
+    <hr>
+    
+    <section>
+      <h3>Outras opções</h3>
+      <ul>
+        <li><a href="#google-login">Entrar com Google</a></li>
+        <li><a href="#facebook-login">Entrar com Facebook</a></li>
+      </ul>
+    </section>
+    
+    <p>
+      <a href="index.html">← Voltar para a loja</a>
+    </p>
+  </main>
+
+  <footer>
+    <hr>
+    <p><small>&copy; 2025 Loja de Calçados. <a href="termos.html">Termos de Uso</a> | <a href="privacidade.html">Privacidade</a></small></p>
+  </footer>
+</body>
+</html>
