@@ -61,8 +61,8 @@ Este projeto consiste no desenvolvimento de um site de e-commerce especializado 
 
 ```
 projeto-loja/
-├── index.html              # Página principal
-├── src/                    # Arquivos fonte
+├── index.html             # Página principal
+├── src/                   # Arquivos fonte
 │   ├── images/            # Imagens do site
 │   │   └── logo.png       # Logo da loja
 │   ├── css/               # Arquivos de estilo (futuro)
