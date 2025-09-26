@@ -1,6 +1,6 @@
 # Loja de Moda - MyCloset
 
-Um projeto de e-commerce para uma loja de moda desenvolvido como parte da disciplina **Tecnologias para Front-end** do curso de Ciência da Computação.
+Um projeto de e-commerce para uma loja de moda desenvolvido como parte da disciplina **Tecnologias para Front-end** do curso de Ciência da Computação da UNIESP.
 
 ## Equipe de Desenvolvimento
 
