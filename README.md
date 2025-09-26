@@ -125,6 +125,6 @@ Este projeto está nos proporcionando experiência prática em:
 - [ ] Otimizar para dispositivos móveis
 - [ ] Adicionar animações e transições
 
---
 
-**Desenvolvido com 💻 pela equipe de Ciência da Computação**
+
+**Desenvolvido com pela equipe de Ciência da Computação**
